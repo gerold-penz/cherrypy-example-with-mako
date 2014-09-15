@@ -1,6 +1,6 @@
 ## coding: utf-8
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
   <meta charset="utf-8" />
   <title>Page with Mako-Template</title>
